@@ -1,0 +1,39 @@
+Şirket Tanımı
+
+Digiterra üretim yapan firmalara dijital dönüşüm yolculuklarında yazılımsal çözümler sunan bir veri analitiği firmasıdır.
+
+İş Tanımı
+
+Merhabalar,
+
+Digiterra olarak üretim yapan firmalara dijital dönüşüm kapsamında yazılımsal çözümler sunan bir veri analitiği firmasıyız. Kısaca bahsetmek gerekirse veri toplama, bu verilerin görselleştirilmesi ve ileri seviyede makine öğrenimi / yapay zeka destekli çalışmalarımız oluyor.
+
+Son dönemde teknik ekibimizi güçlendirme yönünde bir karar aldık.
+
+Bu noktada da en kritik rollerden birisi, hali hazırda 2 Jr. ve 2 Mid-Level arkadaşımızdan oluşan frontend ekibimiz ile birlikte çalışacak hevesli bir Mid Level Frontend Developer.
+
+UI odağı zengin bir çok projemiz olduğu için bu role fazlasıyla önem veriyoruz.
+
+Aradığımız rolde çalışacak kişi projelerin mimarilerinin tasarlanması ve geliştirilmesinde kritik rol oynayacak.
+
+Eğer yeni teknolojiler kullanmaya, bilgi paylaşmaya, alınan kararlarda fikrinizi söylemeye ve bir teknolojiyi ezbere kullanmaktan ziyade ne problem çözdüğünü araştırmaya hevesliyseniz Digiterra'da sizin için de bir yer olabilir.
+
+Pandemiden bağımsız olarak %100 remote çalışma imkanı tanıyoruz.
+
+Sağlıklı ve keyifli günler dileriz!
+
+Nitelikler
+
+ Bilgisayar, yazılım veya farklı bir mühendislik bölümü mezunu,
+ Dinamik, zengin içerikli web aplikasyonları yapma tecrübesi olan,
+ Responsive ekranlar tasarlamış,
+ Agile metodlar konusunda tecrübeli,
+ Veri görselleştirme konusunda bilgi sahibi,
+ Object-oriented mimari ve tasarım patenleri konularında tecrübeli,
+ React.js tarafında 3+ yıl deneyimi olan,
+ HTML / CSS konularında ciddi tecrübe sahibi,
+ Komplike bir web aplikasyonunda ana yazılımcı olarak rol almış,
+ Yeni teknolojiler öğrenmeye ve kullanmaya hevesli,
+ İletişim konusunda kuvvetli bir kişi arıyoruz. 
+
+Not: TypeScript kullanmış olmanız bir artıdır.

@@ -1,0 +1,69 @@
+Hi there 👋
+
+Getir is the pioneer of ultra-fast delivery. By bringing together great technology with a unique operational model, we were the first to introduce the concept of groceries being delivered to your door in minutes. Technology continues to be at the heart of our business as we expand across the globe.
+
+Great technology is developed by great people, and that’s why we’re looking for talented technologists to join our team.
+
+What You’ll Be Doing
+
+Build pixel-perfect, robust and, accessible user interfaces
+Work with Product Managers, Product Designers, Project Manager and Business Stakeholders to analyze requirements and deliver solutions
+Code Functional, Reusable, Unit Testable, Easy to Debug, Documented, Readable, Respect to Project Code Standards, Prefer Configuration over Hard Coding
+Read and Optimize software performance bottlenecks
+Write functional requirement documents and guides
+Stay up-to-date on emerging technologies
+Mentor your team members to increase the quality of their code and career
+Experience working within an agile development environment
+Participate Code Review
+Participate Git flow development model
+Participate Sprint Refinement / Grooming
+Emphasize a consumer-focused approach in building software
+Foreseeing the needs of the product before it appears and making preliminary studies for the needs
+
+What You’ll Bring
+
+You Will Have:
+
+4+ years of software engineering and hands-on programming experience in Front-end Development
+Experience in architecting component libraries, building reusable UI components
+Experience with RESTful APIs and Services
+Proficiency in React/Redux and Redux Saga.
+Proficiency in JavaScript
+Proficiency in HTML, CSS
+Proficiency in Toolings like WebPack
+Experience with CSS Pre-processors (SASS - SCSS - LESS)
+Experience with Responsive Design
+Unit Test knowledge (Jest, Jasmine, Karma etc…)
+Solid grasp of cross-platform cross-browser compatibility issues and code optimization
+
+Bonus Points if You Have:
+
+TypeScript
+Node.JS
+GraphQL
+PWA
+
+You as a Getirian
+
+You are a good person first, everything else is secondary. You are a champion of growth, and actively strive to be the best version of you, for yourself and your team. You value diversity and embrace ideas over hierarchy. You aren't afraid to learn and re-learn at Getir speed. You are an initiator, in charge of your own story and your legacy.
+
+Benefits
+
+Once-in-a-career opportunity to make an impact in one of the fastest-growing mobile-commerce businesses in the world.
+Take charge of your own career growth with us through professional development opportunities! We really mean it when we say that upward and sideways mobility are some of our favorite terms.
+Working in a diverse and dynamic environment with our international team of thousands of Getirians across the globe.
+Health insurance (family included)
+Meal card
+Competitive salary
+
+🌈 We are a diversity and equal opportunity employer.
+
+FIND MORE ABOUT US🔎 :
+
+Our tech stack : https://stackshare.io/getir/tech-stack
+Our career page : https://technology.getir.com/
+Contact people: belen.gonzalez@getir.com
+
+Diversity makes us stronger. Our diverse cultures, backgrounds, beliefs, values, abilities, and lifestyles help us learn from each other. We’re proud to strive for a genuinely diverse and inclusive workplace. We know we can do better though. That’s why we hire and promote people with equity and equality in mind.
+
+We will process your personal data as part of our recruitment procedures. To find out more, please consult our Candidate Privacy Notices.

@@ -1,0 +1,134 @@
+CatchProbe Intelligence Technologies Corporation is an internationally recognized technology company that provides actionable web intelligence, OSINT, deception systems, threat intelligence, and digital crime analytics solutions and products through the world's first AI-Driven SaaS-based centralized and autonomous intelligence platform. (Intelligency Suite, version IDA Mountain)
+
+
+CatchProbe Incorp. is an enhanced centralized actionable intelligence orchestration platform for intelligence gathering, enrichment, deception, profiling or creating targeting, semantics, and attribution solutions. It collects all the intelligence needed to prevent potential threats, enrich your data, correlate across sources, produce reports, and streamline threat prevention using the intelligence it obtains for accurate analysis.
+
+
+In addition to verified threat intelligence data collected from public and private sources, deception systems (AI-Based Autonomous Deceptions), leaked data (Leak DBs) and dark/deep web resources are also used by CatchProbe and accessed through the centralized interface.
+
+
+Responsibilities
+
+Designs, develops, configures, integrates, tests and maintains existing or new business applications and/or information systems solutions.
+Manage individual project priorities, deadlines and deliverables.
+Applications and infrastructure solutions include both 3rd party software and internally developed applications and infrastructure.
+Cooperating with other software engineers, project manager to achieve the goal for connecting with different API, new features, enhancements, bug fixing.
+Responsibilities of code review for team members’ new features, enhancements or bug fixing.
+Responsibilities include, but are not limited to analysis of business requirements, coding of modifications or new program, creation of documentation, testing and maintenance of applications, platform, system and infrastructure.
+Working with customers or departments on technical issues including software system design and maintenance.
+Provides required documentation and participates in architecture reviews to ensure that the solutions comply with standards and use approved technologies.
+
+Requirements
+
+8+ years of professional Python development experience
+10+ years of professional C++ or JAVA development experience
+5+ years of experience building software products
+10+ years production code experience with Python
+Experience with Flask
+Experience with FastAPI
+Experience with Unix Systems
+Experience with Python frameworks
+Experience with RabbitMQ
+Experience with Celery
+Experience with ElasticSearch
+Experience with Redis
+Experience with Cloud Platform, Docker, and Kubernetes
+Ability to build products that scale, experience working on large-scale software projects
+
+KEY SUCCESS FACTORS
+
+Fluency in Python as a programming language
+Familiarity with JSON files
+Experience leading projects or a team
+Experience setting up automation/ETL pipelines
+Apache Airflow is ideal but open to other pipelining tools
+Elastic Experience
+MongoDB Experience
+Experience creating reports and dashboards (ideally Tableau)
+Kubernetes and Docker for containerization
+NLP/ML Experience
+
+You’ll Need To Have
+
+Bachelor’s degree
+Fluent in English
+Proven technical background experience
+2+ years experience of Kubernetes
+5+ years experience of Docker Swarm
+Experience with Flask
+Experience with FastAPI
+Experience with Unix Systems
+Experience with Python frameworks
+Experience with RabbitMQ
+Experience with Celery
+Experience with ElasticSearch
+Experience with Redis
+
+What skills and knowledge you should bring?
+
+Performance-proven;
+
+8+ years of professional Python development experience
+10+ years of professional C++ or JAVA development experience
+5+ years of experience building software products
+10+ years production code experience with Python
+Specific areas of expertise should include:
+
+Experience of Kubernetes, experience of Docker Swarm, experience of Infrastructure as a Service, experience of ProxMox and strong infrastructure technical and management skills
+
+Why CatchProbe Incorporation?
+
+You will work on real-world problems and make an impact by protecting our customers from dijital attacks and cyber espionage with proactive actionable intelligence defense . You will be joining a cutting-edge project and will be able to influence the architecture, design, and structure of our core platform.
+
+1. The advantage of getting a salary in dollars
+
+2. Meal payment
+
+3. Annual certification and training entitlement
+
+4. Opportunity to work in an %100 American Company (Visa Support)
+
+5. Private health insurance at the start of employment (Family Inclusive)
+
+6. Private company support in critical health situations (Family Inclusive)
+
+7. Seniority increase advantage with performance evaluation every 3 months
+
+8. Salary increase advantage according to seniority after the evaluation of severance payment every 6 months
+
+9. Technical team bonus in large-scale project sales and project oriented specisif development.
+
+10. With the HR MVP (Most Valuable Personnel) Program, the 5 most valuable employees at the end of each year are given the opportunity to work permit visa in the USA. (Visa Sponsorship)
+
+11. Paid Company Assigned Holidays (planning at the beginning of the year for people who have completed two years)
+
+12. Paid Sick Time
+
+13. Gym Membership
+
+CatchProbe Incorp. is proud to be an Equal Employment Opportunity and Affirmative Action employer. We do not discriminate based upon race, religion, color, national origin, gender (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as an individual with a disability, or other applicable legally protected characteristics.
+
+Important Notice: CatchProbe Incorp. participates in the ITAR, global ethics rules-blacklist verification control, e-verify and global security check program for all U.S. and Global based roles.
+
+
+
+CatchProbe Intelligence Technologies Corporation
+
+San Frascisco (Global Headquarters)
+
+1160 Battery Street,
+
+East Suite 100, San Francisco, CA 94111
+
+
++1 (628) 208-6430
+
++1 (415) 527-5484
+
+
+contact@catchprobe.com
+
+hr.ethics.value@catchprobe.com
+
+
+https://www.catchprobe.com

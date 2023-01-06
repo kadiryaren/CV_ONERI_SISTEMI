@@ -1,0 +1,53 @@
+About Us
+As Missafir, We are driven by our passion to change the meaning of “home” with flawless experiences for everyone, to provide a hassle-free and lucrative rental income in complete trust for hosts and to make every guest feel welcomed with wholesome hospitality services and home comfort everywhere.
+
+Come and Join Us!
+You will be part of our visionary team and the fastest-growing startup in Istanbul. We are ready to open up to the global and revolutionize the world’s idea of “home” through unique experiences everyone deserves! So if you’re ready to feel at home while still enjoying the thrill of new discoveries, join our story and be a part of history!
+
+Missafir Culture & Benefits
+We adopt certain values and benefits to bring out the best in all of us. Missafir’s organizational culture is based on the values of equality, justice, inclusion, and diversity. Various social benefits and practices that will create the ground and positive atmosphere for the talents to realize themselves are adopted as an integral part of the employer identity.
+
+Our Development Stack:
+https://stackshare.io/missafir/missafir
+
+About the Job
+Responsible for front-end development and maintenance processes of our web applications
+Writes reusable code and creates/maintains new components for future use
+Improves the performance, scalability, and availability of our systems
+Working with the back-end developers to ensure that the required data is available to the front-end
+
+Who You Are
+Bachelor's degree in computer science or equivalent work experience
+Have minimum 3+ years experience in software development and in-depth knowledge of JavaScript
+Passionate about short / medium term rental experience and hospitality
+Experience with React / Typescript / HTML & CSS / Redux / RESTful API / JWT
+Passionate about start-up culture and innovative ideas
+Preferably experience in SaaS
+Experience with common front-end development tools such as Babel, Webpack, NPM, etc.
+Working experience with Git
+Experience in testing and its techniques.
+
+What We Offer
+Great Place to Work - You’ll be a part of a fast-growing startup and have the privilege to enjoy our accredited “BEST WORKPLACES” environment.
+Full Responsibility From Day One - We want you to challenge yourself!
+Progression Opportunities - You can change your path as we grow!
+Our Team of Missafir Heroes - Bright, talented, and empathetic teammates will build you up and celebrate your success.
+No Corporate Fluff - We are result-oriented. Here, only good ideas and executions are the bosses.
+Discretionary Bonuses - Achievements don’t pass unnoticed.
+Opportunity to Have Fun - We work smart to fulfill our potential and chase our dreams freely and efficiently.
+Monthly Activities - Once a month, we get together to rekindle the team spirit.
+Day Off for Your Birthday - We still want to celebrate together tho!
+Work From Home - We adopt a hybrid work model.
+Menstrual Leave - Work from home 2 days a month without coming to the office.
+Sabbatical Leave - Our team members who have met the necessary conditions can take a break for their personal and professional development.
+Pawternity Leave - Missafir team members get 3 days off paid leave if they have just adopted a pet!
+Self-Gifting Pack - Incentive package for you to pamper yourself and feel valued.
+A generous discount for stays in any of the Missafir Homes.
+Monthly Food Allowance.
+Parental Leave - Our new-parent teammates can benefit from paid leave and other support packages to take better care of the new members of their families.
+Online Courses - Learning never ends! We offer a wide range of courses and training for your career & self-improvement.
+Complimentary Private Health Insurance - We take responsibility for ensuring the well-being of our teammates.
+Honeymoon with Missafir - Complimentary accommodation in Missafir homes for our newlywed teammates.
+Mental Health Support - Free psychological counseling and mental health seminars from our corporate partnership.
+
+Are you ready to grow together?

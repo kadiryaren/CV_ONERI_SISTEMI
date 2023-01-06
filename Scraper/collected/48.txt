@@ -1,0 +1,20 @@
+An emerging company building a SaaS-based platform that uses Data Analytics to analyze complex construction technology is looking for a Web Front-End Developer. The selected candidate will be responsible for making critical system-level design decisions and driving projects from start to finish with minimal supervision. The company has developed a technology to help businesses make smart decisions quickly while analyzing historical data and providing conceptual budgets quickly.
+
+Job Responsibilities:
+
+Work on building reliable, easy-to-scale, low-latency, and high-performance web apps
+Contribute to designing, developing, and delivering fully functional web solutions
+Assist in every stage of the software delivery process, including design, development, testing & support
+Understand requirements and develop responsive website applications
+Maintain and fine-tune applications for maximum speed
+Gather updates of emerging technologies and drive improvements
+
+Job Requirements:
+
+Bachelor’s/Master’s degree in Engineering, Computer Science (or equivalent experience)
+At least 3+ years of relevant experience as a front-end web developer
+Should be able to work with technologies like Material UI
+Must possess a thorough understanding of React and CSS
+Knowledge of utilizing resources like Git is essential
+Familiarity with working and maintaining REST/RESTful APIs is highly desirable
+Expertise in Docker, GCP, and Kubernetes will be beneficial

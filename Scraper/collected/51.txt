@@ -1,0 +1,19 @@
+A fast-growing company that is building advanced data tools to enable businesses to keep pace with the 21st century, is looking for a Web Front-End Developer. The selected candidate will be responsible for delivering a high-performance system that utilizes highly engaging UI. The company is expanding the data economy by leveraging the power of advanced technology and data processing. This will be a long-term role that requires some overlap with the EST time zone.
+
+Job Responsibilities:
+
+Lead prototypes of new ideas and explore new technologies at the forefront of data analysis and technology
+Efficiently deliver critical business modules while developing optimized and modular code
+Plan, build, and design solutions while anticipating future requirements 
+Stay informed on new technologies and implement cautiously
+Maintain necessary documentation for the project
+
+Job Requirements:
+
+Bachelor’s/Master’s degree in Engineering, Computer Science (or equivalent experience)
+At least 3+ years of relevant experience as a front-end developer
+Demonstrable experience working with React, Typescript, and JavaScript
+Nice to have some knowledge of Python, Git, and Jupyter Notebook
+Fluent in conversational and written English
+Sound problem-solving aptitude and the ability to lead with initiative
+Must be proactive and a self-starter with the drive to take initiative

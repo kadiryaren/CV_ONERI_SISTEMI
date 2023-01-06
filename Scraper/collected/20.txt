@@ -1,0 +1,34 @@
+Şirketimiz saha süreçlerine yönelik operasyon yönetimi platformu geliştiren bir girişimdir. Web ve mobil tabanlı yazılım geliştirme süreçlerinde frontend rol üstlenmek üzere React & React Native Yazılım Geliştirici aramaktayız.
+
+Aranan Nitelikler
+
+Genç hisseden
+Typescript syntax'ına hakim,
+Reactjs kütüphanesine hakim,
+ESLint ve test kütüphaneleri bilgisine sahip,
+React Context API deneyimine sahip,
+React Hooks API’larına hakim,
+React Query deneyimi olan,
+Zustand deneyimi olan,
+Global State olarak Redux deneyimine sahip,
+Redux Rest API yönetimine hakim,
+Tailwind CSS bilgisine sahip,
+Emotion js deneyimine sahip,
+Material UI veya Ant Desing bilgisine sahip,
+UI disiplinlerini öğrenmeyi seven bkz (https://material.io),
+React Native deneyimi tercih nedenidir.
+Hızlı ve yenilikçi özellikler geliştirmekte heyecanlı,
+Kod kalitesine ve dökümantasyona önem veren,
+Girişim kültürüne sahip bir şirkette çalışmaya açık,
+Hem uzaktan hem ofisten çalışmaya açık,
+adaylar aranmaktadır.
+
+İş Tanımı
+Planlanan modüllerin tasarımı ve geliştirmesi süreçlerinde etkin rol almak.
+Mevcut modüllerin iyileştirmelerini ve hata düzeltmelerini gerçekleştirmek.
+Platforma yeni işlevler geliştirmek ve kullanıcı deneyimini iyileştirmek.
+
+Ofisimiz Beşiktaş/Arnavutköy’dedir.
+
+Başvuru: https://forms.gle/34SdzT57HAXvgpN16
+İletişim: hakan@workmaple.com

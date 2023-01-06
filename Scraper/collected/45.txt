@@ -1,0 +1,24 @@
+Jr. Front-End Developer & Mid. Front-End Developer
+
+ERP - CRM Hibrit projemize özel Front-End takımımıza yeni arkadaşlar arıyoruz.
+
+• Angular 2+
+• Javascript, Typescript,
+• Komponent, kütüphane geliştirme bilgisi
+• RESTful API arayüzleri uygulamasında tecrübeli
+• Node.JS bilgisi
+• CSS, SASS
+• Bootstrap 4+
+• SVN, GIT, CVS vb. Versiyon kontrol bilgisi
+Artı Puanlar:
+• Unit Test (Karma/Jasmine)
+• Agile Deneyimi (SCRUM/Kanban)
+• Performans, Analiz, İyileştirme konularında deneyimli
+Ne Sunuyoruz:
+• Hibrit Çalışma
+• Merkezi konumda ofis, Üsküdar-Bağlarbaşı metro çıkışı.
+• Nakit yemek ücreti.
+• Nakit yol ücreti.
+• Yılın istediğiniz günü kullanabileceğiniz doğum günü izni.
+• Alınmak istenen online eğitim ücretleri.
+• Performans primi.

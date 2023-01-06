@@ -1,0 +1,10 @@
+We are a team that knows how to build world-class products, with experience in building unicorns. Our passion is breaking down barriers to decision-making at industrial scale.
+
+We are looking for a skilled developer with in-browser client-side scripting expertise to join our team, specifically:
+Extensive experience with in-browser client-side scripting
+Strong knowledge of DOM manipulation and anti-flicker techniques
+Experience with Web API interception and service/worker threads
+Familiarity with JavaScript development and testing frameworks
+Optional: knowledge of WebAssembly
+Optional: experience with A/B testing architectures such as Optimizely, Google Optimize, and VWO.
+We are providing competitive base and stock option packages. This is a unique opportunity but is not for everyone. The ideal candidate has confidence in her/his skills and ultimately shares our entrepreneurial drive to build a world-class company.
